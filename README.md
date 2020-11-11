@@ -20,4 +20,4 @@ A empresa está montando a estratégia de vendas para o próximo ano e precisa s
 
 Tabela de relacionamentos dos dados importados para o PowerBI.
 
-![Screenshot](Tabela_relacionamentos_Dash_eletro)
+![Screenshot](Tabela_relacionamentos_Dash_eletro.png)
