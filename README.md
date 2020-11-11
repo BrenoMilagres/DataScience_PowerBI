@@ -17,3 +17,7 @@ Análise sobre os Dados de uma revendedora de automóveis de luxo. A empresa com
 A empresa está montando a estratégia de vendas para o próximo ano e precisa saber qual  dos  fabricantes  dos  produtos  vendidos,  apresenta  melhor  desempenho  nas  vendas.  O objetivo é descartar os fabricantes cujos produtos possuem poucas vendas e tentar negociar melhores condições com os principais fabricantes. A fonte de dados é um arquivo Excel com dados coletados do sistema de vendas,CRM e ERP da empresa.
 
 ![Screenshot](Dash_Vendas_eletrodomésticos.png)
+
+Tabela de relacionamentos dos dados importados para o PowerBI.
+
+![Screenshot](Tabela_relacionamentos_Dash_eletro)
