@@ -9,6 +9,5 @@ Análise sobre os Dados de uma revendedora de automóveis de luxo. A empresa com
 - Custo de Entrega do Veículo Por Fabricante
 - Custo de Mão de Obra Por Estado
 - Total de Vendas Geral e Matriz de Vendas
-- Total  de  vendas  por estado
 
 ![Screenshot](Dash_Vendas_Carros.png)
